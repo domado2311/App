@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033187563544",
+    "project_id": "cbwm-project",
+    "storage_bucket": "cbwm-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033187563544:android:951b6be8779c53287a8b6d",
+        "android_client_info": {
+          "package_name": "com.example.sidenav"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUqHKePRD_S7lLz33mviOlwT66vNVcusI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

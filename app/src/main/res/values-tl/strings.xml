@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aking App</string>
+    <string name="settings">Mga Setting</string>
+    <string name="dark_theme">Madilim na Tema</string>
+    <string name="language">Wika</string>
+    <string name="notifications">Mga Abiso</string>
+    <string name="logout">Mag-logout</string>
+    <string name="english">Ingles</string>
+    <string name="filipino">Filipino</string>
+</resources>
